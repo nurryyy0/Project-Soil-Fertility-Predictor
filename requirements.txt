@@ -7,3 +7,5 @@ scikit-learn==1.8.0
 joblib==1.5.3
 nbformat==5.10.4
 imbalanced-learn==0.14.1
+fpdf2==2.8.7
+pillow==12.2.0
