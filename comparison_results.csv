@@ -1,0 +1,4 @@
+,Test Accuracy,Test F1 Macro,CV Train F1,Stability Mean,Stability Std
+Decision Tree,0.9261,0.9015,0.9505,0.8878,0.0322
+Random Forest,0.9432,0.9135,0.9612,0.9436,0.0267
+KNN,0.8265,0.8176,0.8213,0.7896,0.0217
